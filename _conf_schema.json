@@ -1,0 +1,12 @@
+{
+  "enabled": {
+    "description": "启用拦截功能",
+    "type": "bool",
+    "default": true
+  },
+  "log_intercepted": {
+    "description": "拦截时输出日志",
+    "type": "bool",
+    "default": true
+  }
+}
