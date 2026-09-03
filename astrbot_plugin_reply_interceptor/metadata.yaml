@@ -1,5 +1,0 @@
-name: astrbot_plugin_reply_interceptor
-desc: 拦截群聊中对 bot 视频/图片解析消息的回复，0 token 终止后续 LLM 调用
-help: 自动识别回复 bot 发出的 link_resolver 解析结果并终止事件传播，防止刷 token
-version: v1.0.0
-author: Texas_qwq
