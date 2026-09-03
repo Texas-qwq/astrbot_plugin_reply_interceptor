@@ -1,0 +1,2 @@
+# astrbot_plugin_reply_interceptor
+这是一个Astrbot插件，用于解决群聊中群员回复评价bot解析发布的视频内容@到了bot让其以为是在召唤自己从而调用LLM回复的问题
